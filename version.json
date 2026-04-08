@@ -1,6 +1,6 @@
 {
-  "version": "6.7",
-  "version_name": "v6.7",
+  "version": "6.8",
+  "version_name": "v6.8",
   "release_date": "2026-04-08",
   "download_url": "https://github.com/vitt-pix/clinic-updates/releases/download/v6.6/DentureClinic.exe",
   "release_notes": "Fixed auto-update",
