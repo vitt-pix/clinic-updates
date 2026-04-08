@@ -5,6 +5,6 @@
   "download_url": "https://github.com/vitt-pix/clinic-updates/releases/latest/download/DentureClinic.exe",
   "release_notes": "Fixed auto-update",
   "min_version": "6.0",
-  "sha256": "7a4920e91fc51a630599c3c78c29c69fe95a686066e737c97e5c1b767bff0ce6",
-  "signature": "C77rxNlMjwJ8Mwm7j6IVUY0ZXOMMPjVSet+M9iGbNMouugP3+C7HER63R1nAVRk9AmXI2yLxT5tKwtZo5kpSDg=="
+  "sha256": "1e70e8f549af562d0f4a578f0fa45c3df6f0523087917fe9c0a7fd14d4ee9228",
+  "signature": "guNZHODiyhGk2NOyNLzClBtlKOLigftawJyBeidj/q3CiazXBHLHzin0GjiJkvaR+FYE/xb5bQV1SGJO/DEhAQ=="
 }
