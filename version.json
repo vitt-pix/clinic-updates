@@ -1,6 +1,6 @@
 {
-  "version": "6.5",
-  "version_name": "v6.5",
+  "version": "6.4",
+  "version_name": "v6.4",
   "download_url": "https://github.com/vitt-pix/clinic-updates/releases/download/v6.4/DentureClinic.exe",
   "release_notes": "Fixed auto-update",
   "min_version": "6.0"
