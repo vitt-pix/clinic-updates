@@ -2,7 +2,7 @@
   "version": "7.0",
   "version_name": "v7.0",
   "release_date": "2026-04-08",
-  "download_url": "https://github.com/vitt-pix/clinic-updates/releases/latest/download/DentureClinic_Setup.exe",
+  "download_url": "https://github.com/vitt-pix/clinic-updates/releases/latest/download/DentureClinic.exe",
   "release_notes": "Fixed auto-update",
   "min_version": "6.0",
   "sha256": "c8f77b8ad182faf9f2230952be69a51cb1f300d5604cafcd115cb0801cfccecb",
