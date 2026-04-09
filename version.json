@@ -1,10 +1,10 @@
 {
-  "version": "7.3",
-  "version_name": "v7.3",
-  "release_date": "Wed 04/08/2026",
-  "download_url": "https://github.com/vitt-pix/clinic-updates/releases/latest/download/DentureClinic.exe",
-  "release_notes": "",
+  "version": "6.1",
+  "version_name": "v6.1",
+  "release_date": "2026-04-07",
+  "download_url": "https://raw.githubusercontent.com/vitt-pix/clinic-updates/main/releases/DentureClinic_Setup.exe",
+  "release_notes": "New document forms added",
   "min_version": "6.0",
-  "sha256": "0a5adf533488fb4e4b1f7a2a4f288bdc0d492a3cfb464b22d9ed4b72e3fce8cd",
-  "signature": "1x+kQEAbGeffbhg+pTgp5iR0JOOuOTxYV+tweKQEm2zEU8tvfFLYbrLgRFEeWBK0G1gsd0/W3iRt/qYM5wyvDA=="
+  "sha256": "f0b34d5f50d97c278b47de9996585e37af7d0bc3c2432803555a5dd93b4422f9",
+  "signature": "+DUR6l5UHuaHyb2OixD3LxcWLvoMhGwV3G4Y+UXXek6DzwG1VWzZUp3YMdvAVwfj6U5as2KqWRwY+b52JJpdAw=="
 }
