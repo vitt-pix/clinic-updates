@@ -1,0 +1,10 @@
+{
+  "version": "10.0.40",
+  "version_name": "v10.0.40",
+  "release_date": "2026-04-18",
+  "download_url": "https://github.com/vitt-pix/clinic-updates/releases/latest/download/DentureClinic.exe",
+  "release_notes": "Security fixes, email threading, backup loop fix, audit improvements.",
+  "min_version": "10.0.0",
+  "sha256": "",
+  "signature": ""
+}
