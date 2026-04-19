@@ -1,10 +1,10 @@
 {
-  "version": "10.1.13",
-  "version_name": "v10.1.13",
+  "version": "10.1.14",
+  "version_name": "v10.1.14",
   "release_date": "Sun 04/19/2026",
   "download_url": "https://github.com/vitt-pix/clinic-updates/releases/latest/download/DentureClinic.zip",
   "release_notes": "Bug fixes and improvements",
   "min_version": "10.0.0",
-  "sha256": "878e583dd8174bb7e1e1d4974f567955d50ecf67e0ee172b6e3262c691bcde31",
-  "signature": "lZoYHDYlxVduMeoRtnWBc/Zo+K7ZBSeWDHTu60hun9q1xczeQu+XwTIjBBbPGzcbVIbFDSqUvmTkN4uVj73TDA=="
+  "sha256": "f5d0ff9eae5da835f0f6c482de4ed58cbc93f69b907f8c549f3cc255109f3e7f",
+  "signature": "kBEK7KhIrm1/jLlpYKa3PlNYhbhw6XGbWfdx4NdUUkasTGTXVOT/9c8Rl4QPB4SuW6xaK5l1KbThtgWGzI+GAA=="
 }
