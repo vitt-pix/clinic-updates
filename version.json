@@ -5,6 +5,6 @@
   "download_url": "https://github.com/vitt-pix/clinic-updates/releases/latest/download/DentureClinic.exe",
   "release_notes": "Security fixes, email threading, backup loop fix, audit improvements.",
   "min_version": "10.0.0",
-  "sha256": "c0e7e4a6e9988fc19714fbc20f1d967d40b9fcd353f95647981f18b9b6167fa3",
-  "signature": "ZXSWn/CnrGwwUVmI+pTghmooNL2r0BMACSfgAvacIqGroSgsfFIqpGeNh1re4hnVPcgmap2/ILIqqqItasm5Bg=="
+  "sha256": "13e06c14bfec48ccb55324473620d7fea605754f9c8c900b8f99b5a69bb12421",
+  "signature": "ZS1OQiByvSj4C9m6yur9pYN0lFyj3tBWJGb0h/9sVdz/vxzuhbf6ZdSNYYh/CNZBijH1fIUi7oDPZZTCPRxhCg=="
 }
